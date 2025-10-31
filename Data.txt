@@ -1,0 +1,27 @@
+        Auctioneer
+            Shyam
+            Erwin Smith
+            Meena Thakur
+            Chaitanya Jagtap
+            Michael Jakson
+            Joseph Booth
+            Tom Cooke
+            Ollie Hart
+            Vance Rogers
+            Petter Parkar
+
+        Bidder 
+            Eren Yeagar
+            Akshay Kumar
+            Preeti Patil
+            David Rathod x
+            Richard Hunt x
+            Theo Holland 
+            Bodhi Castillo
+            Gavin Walton 
+            Lucas Morris
+            Oggy 
+            Jeol West
+            Dexter Watts
+
+
